@@ -1,6 +1,8 @@
 # NHL_PCA
 Run a PCA (Principal Component Analysis) algorithm on a set of advanced NHL statistics.
 
+Data Source: https://www.moneypuck.com/stats.htm
+
 The following shows the top 10 advanced statistics that contribute towards PC1 and their loading scores.
 
 
