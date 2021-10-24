@@ -4,15 +4,25 @@ Run a PCA (Principle Component Analysis) algorithm on a set of advanced NHL stat
 The following shows the top 10 advanced statistics that contribute towards PC1 and their loading scores.
 
 Results:
+
 timeOnBench :  0.896713331996098
+
 icetime :  0.4415248677565037
+
 OffIce_A_shotAttempts :  0.013460801650499458
+
 OffIce_F_shotAttempts :  0.01285374173739825
+
 shifts :  0.008855742695073707
+
 I_F_shifts :  0.00885574269507369
+
 OnIce_F_scoreAdjustedShotsAttempts :  0.0072250862244140545
+
 OnIce_F_shotAttempts :  0.007193061525410129
+
 OnIce_A_scoreAdjustedShotsAttempts :  0.00619648449922037
+
 OnIce_A_shotAttempts :  0.006195625978162537
 
 Key:
