@@ -1,5 +1,5 @@
 # NHL_PCA
-Run a PCA (Principle Component Analysis) algorithm on a set of advanced NHL statistics.
+Run a PCA (Principal Component Analysis) algorithm on a set of advanced NHL statistics.
 
 The following shows the top 10 advanced statistics that contribute towards PC1 and their loading scores.
 
